@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Break-up Test</string>
+    <string name="headertext">BREAK-UP TEST</string>
+    <string name="imagedesc">breakupimg</string>
+    <string name="nametestheader">name test</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="hint1">mary</string>
+    <string name="enter_your_partner_s_name">Enter your partner\'s name</string>
+    <string name="hint2">peter</string>
+    <string name="zodiac_testheader">zodiac sign test</string>
+    <string name="enter_your_zodiac">Enter your zodiac sign</string>
+    <string name="hintsag">saggitarius</string>
+    <string name="enter_your_partner_s_zodiac">Enter your partner\'s zodiac sign</string>
+    <string name="hintleo">leo</string>
+    <string name="chance_you_will_break_up">chance you will break up</string>
+    <string name="_12_11_2000hint">12/11/2000</string>
+    <string name="birthday_testheader">birthday test</string>
+    <string name="enter_your_birthdaytxt">Enter your birthday</string>
+    <string name="enter_your_partner_s_birthdaytxt">Enter your partner\'s birthday</string>
+    <string name="_21_12_1990hint">21/12/1990</string>
+    <string name="peterhint">peter</string>
+    <string name="name_testheader">name test</string>
+    <string name="maryhint">mary</string>
+    <string name="enter_your_nametxt">Enter your name</string>
+    <string name="enter_your_partner_s_nametxt">Enter your partner\'s name</string>
+    <string name="banneradunitid">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
